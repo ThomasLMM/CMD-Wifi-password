@@ -13,7 +13,7 @@ ECHO.
 
 SET /P SSID=Nom de la connexion wifi : 
 
-FOR /f "delims=" %%A IN ('"netsh wlan show profile name="%SSID%" key=clear | findstr Key"') DO SET wifi_key=%%A
+FOR /f "delims=" %%A IN ('"netsh wlan show profile name="%SSID%" key=clear | findstr Conten"') DO SET wifi_key=%%A
 IF /I "%wifi_key%" EQU "" goto :ErrorEmpty
 SET wifi_key=%wifi_key:~29%
 CLS

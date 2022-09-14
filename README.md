@@ -16,4 +16,4 @@ To run the script and retrieve the password of a previously connected wifi netwo
 Early beta stage so except some bug and crash.
 
 - [x] ~~Possible error if the network has been registered by WPS.~~
-- [ ] An error occurs if the SSID contains spaces.
+- [x] An error occurs if the SSID contains spaces.

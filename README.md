@@ -13,7 +13,7 @@ To run the script and retrieve the password of a previously connected wifi netwo
 - ENJOY.
 
 # Know issues
-Early beta stage so except some bug and crash.
+Early stage and pre-release alpha so except some bug and crash.
 
 - [x] ~~Possible error if the network has been registered by WPS.~~
 - [x] ~~An error occurs if the SSID contains spaces.~~

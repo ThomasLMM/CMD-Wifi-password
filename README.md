@@ -17,3 +17,8 @@ Early stage and pre-release alpha so except some bug and crash.
 
 - [x] ~~Possible error if the network has been registered by WPS.~~
 - [x] ~~An error occurs if the SSID contains spaces.~~
+- [ ] As the script has only been tested in English and French, it probably only works in these languages. (See [#1][i1])
+
+
+
+[i1]: https://github.com/ThomasLMM/CMD-Wifi-password/issues/1
